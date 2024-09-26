@@ -1,1 +1,1 @@
-# C-beginner-amateur-project
+c beginner managment systems
