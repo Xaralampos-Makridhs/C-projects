@@ -3,7 +3,7 @@
 #include<string.h>
 
 
-int i=0;//metraei tous foithtes
+int i=0;
 
 typedef struct{
 char fname[10];
