@@ -83,7 +83,7 @@ printf("enter your number:");
 scanf("%s",pelaths[count].number);
 printf("enter your usage(in minutes):");
 scanf("%f",&pelaths[count].usage);
-pelaths[count].totalbill=pelaths[count].usage*0.1; //upothetikh xrewsh ana lepto
+pelaths[count].totalbill=pelaths[count].usage*0.1;
 printf("Total Bill:%.2f",pelaths[count].totalbill);
 count++;
 printf("\nRecord added successfully!\n");
