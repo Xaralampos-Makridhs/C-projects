@@ -58,7 +58,7 @@ time_t now;
 time(&now);
 printf("\t\t\t%s",ctime(&now));// wra
 
-    printf("\t\t\tHospital Managment System\n");//leitourgies
+    printf("\t\t\tHospital Managment System\n");
     printf("--> 1. Add Doctor\n");
     printf("--> 2. Edit Doctor\n");
     printf("--> 3. Delete Doctor\n");
