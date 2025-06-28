@@ -30,7 +30,7 @@ time_t now;
 time(&now);
 printf("%s\n",ctime(&now));
 setcolor(3);
-while(input!=5){ // arxikopoiei to input me 0 gia na to balei stin while
+while(input!=5){
     printf("1.Add Book informations\n");
     printf("2.Display book informations\n");
     printf("3.List all books of given author\n");
