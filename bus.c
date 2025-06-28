@@ -47,7 +47,7 @@ printf("\n");
 
 int numusers=5;
 int buses=3;
-int logindex=-1; //gia na syndethei me ta stoixeia tou
+int logindex=-1;
 int i;
 while(1){
     if (logindex==-1){
